@@ -140,4 +140,4 @@ public class Calculator extends JFrame implements ActionListener, KeyListener {
         });
     }
 }
-//뤼튼ai사용
+@뤼튼ai
